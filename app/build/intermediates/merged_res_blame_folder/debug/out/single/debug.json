@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_item_place.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/layout/item_place.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_activity_splash.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_placeholder_image.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/drawable/placeholder_image.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_fragment_favorites.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_fragment_main.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_activity_main.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/navigation_nav_graph.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/xml_backup_rules.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_error_image.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/drawable/error_image.xml"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

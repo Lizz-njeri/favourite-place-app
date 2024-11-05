@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable error_image
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable placeholder_image
+id appNameText
+id fabAddPlace
+id favoritesFragment
+id mainFragment
+id nav_graph
+id nav_host_fragment
+id placeDescription
+id placeImage
+id placeName
+id ratingBar
+id recyclerView
+id recycler_view_favorites
+layout activity_main
+layout activity_splash
+layout fragment_favorites
+layout fragment_main
+layout item_place
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+style Theme.FavouritePlaces
+xml backup_rules
+xml data_extraction_rules
