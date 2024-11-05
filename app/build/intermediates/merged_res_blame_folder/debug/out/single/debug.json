@@ -1,98 +1,110 @@
 [
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_item_place.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/layout/item_place.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\fragment_detail.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_activity_splash.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_placeholder_image.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/drawable/placeholder_image.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_fragment_favorites.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/layout/fragment_favorites.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\drawable_error_image.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\drawable\\error_image.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_fragment_main.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/layout/fragment_main.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\drawable_placeholder_image.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\drawable\\placeholder_image.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/layout_activity_main.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/layout/activity_main.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/navigation_nav_graph.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\fragment_favorites.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_fragment_add_place.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\fragment_add_place.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\fragment_main.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/xml_backup_rules.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\layout_item_place.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\layout\\item_place.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/drawable_error_image.xml.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/drawable/error_image.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.favouriteplaces.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.favouriteplaces.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.favouriteplaces.app-merged_res-74:/layout_fragment_detail.xml.flat",
+        "source": "com.example.favouriteplaces.app-main-76:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-merged_res-74:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.favouriteplaces.app-main-76:\\xml\\data_extraction_rules.xml"
     }
 ]

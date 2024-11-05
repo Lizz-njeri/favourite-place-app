@@ -5,6 +5,7 @@ import android.view.View
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -12,6 +13,7 @@ import com.example.favouriteplaces.R
 import com.example.favouriteplaces.data.model.Place
 import com.example.favouriteplaces.viewmodel.PlacesViewModel
 import com.google.android.material.floatingactionbutton.FloatingActionButton
+import androidx.navigation.fragment.findNavController
 
 class MainFragment : Fragment(R.layout.fragment_main) {
 
@@ -32,8 +34,8 @@ class MainFragment : Fragment(R.layout.fragment_main) {
     private fun setupRecyclerView() {
         placesAdapter = PlacesAdapter(
             onPlaceClick = { place: Place ->
-                // Handle place click - navigate to detail screen
-                Toast.makeText(requireContext(), "Clicked: ${place.name}", Toast.LENGTH_SHORT).show()
+                // Navigate to detail screen with the clicked place
+                findNavController().navigate(R.id.action_mainFragment_to_detailFragment)
             }
         ) { place, newRating ->
             viewModel.updatePlaceRating(place, newRating)
@@ -48,8 +50,8 @@ class MainFragment : Fragment(R.layout.fragment_main) {
 
     private fun setupFab() {
         view?.findViewById<FloatingActionButton>(R.id.fabAddPlace)?.setOnClickListener {
-            // Handle adding new place - navigate to add place screen
-            Toast.makeText(requireContext(), "Add new place clicked", Toast.LENGTH_SHORT).show()
+            // Navigate to add place screen
+            findNavController().navigate(R.id.action_mainFragment_to_addPlaceFragment)
         }
     }
 
@@ -59,3 +61,5 @@ class MainFragment : Fragment(R.layout.fragment_main) {
         }
     }
 }
+
+

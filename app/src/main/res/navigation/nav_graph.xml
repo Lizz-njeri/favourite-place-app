@@ -4,15 +4,29 @@
     android:id="@+id/nav_graph"
     app:startDestination="@id/mainFragment">
 
-    <!-- Main Fragment -->
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.example.favouriteplaces.ui.main.MainFragment"
-        android:label="Main Fragment" />
+        android:label="Main Fragment">
+        <action
+            android:id="@+id/action_mainFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_addPlaceFragment"
+            app:destination="@id/addPlaceFragment" />
+    </fragment>
 
-    <!-- Favorites Fragment -->
     <fragment
-        android:id="@+id/favoritesFragment"
-        android:name="com.example.favouriteplaces.ui.main.FavoritesFragment"
-        android:label="Favorites Fragment" />
+        android:id="@+id/detailFragment"
+        android:name="com.example.favouriteplaces.ui.main.DetailFragment"
+        android:label="Detail Fragment">
+        <argument
+            android:name="place"
+            app:argType="com.example.favouriteplaces.data.model.Place" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addPlaceFragment"
+        android:name="com.example.favouriteplaces.ui.main.AddPlaceFragment"
+        android:label="Add Place Fragment" />
 </navigation>
